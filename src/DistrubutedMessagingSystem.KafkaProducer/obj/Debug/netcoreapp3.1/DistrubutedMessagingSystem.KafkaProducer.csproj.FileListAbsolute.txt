@@ -1,0 +1,13 @@
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.exe
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.deps.json
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.runtimeconfig.json
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.runtimeconfig.dev.json
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.dll
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\bin\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.pdb
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.AssemblyInfo.cs
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.dll
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.pdb
+C:\Users\baris\source\repos\DistrubutedMessagingSystem.Kafka\src\DistrubutedMessagingSystem.KafkaProducer\obj\Debug\netcoreapp3.1\DistrubutedMessagingSystem.KafkaProducer.genruntimeconfig.cache
