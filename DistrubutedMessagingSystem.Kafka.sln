@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F4A4776D-760
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistrubutedMessagingSystem.KafkaProducer", "src\DistrubutedMessagingSystem.KafkaProducer\DistrubutedMessagingSystem.KafkaProducer.csproj", "{BCF34F93-0F61-4D6C-A6BD-BAF1D9259A1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistrubutedMessagingSystem.Domain", "src\DistrubutedMessagingSystem.KafkaConsumer\DistrubutedMessagingSystem.Domain\DistrubutedMessagingSystem.Domain.csproj", "{92C870DD-2854-4F1E-B059-71269323C93B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistrubutedMessagingSystem.Domain", "src\DistrubutedMessagingSystem.Domain\DistrubutedMessagingSystem.Domain.csproj", "{0547770A-9850-4B33-A217-00E278FBF2C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,17 +19,17 @@ Global
 		{BCF34F93-0F61-4D6C-A6BD-BAF1D9259A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF34F93-0F61-4D6C-A6BD-BAF1D9259A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF34F93-0F61-4D6C-A6BD-BAF1D9259A1E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{92C870DD-2854-4F1E-B059-71269323C93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92C870DD-2854-4F1E-B059-71269323C93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92C870DD-2854-4F1E-B059-71269323C93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92C870DD-2854-4F1E-B059-71269323C93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0547770A-9850-4B33-A217-00E278FBF2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0547770A-9850-4B33-A217-00E278FBF2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0547770A-9850-4B33-A217-00E278FBF2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0547770A-9850-4B33-A217-00E278FBF2C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BCF34F93-0F61-4D6C-A6BD-BAF1D9259A1E} = {F4A4776D-7606-446C-AFB9-455AB2E3B3A7}
-		{92C870DD-2854-4F1E-B059-71269323C93B} = {F4A4776D-7606-446C-AFB9-455AB2E3B3A7}
+		{0547770A-9850-4B33-A217-00E278FBF2C4} = {F4A4776D-7606-446C-AFB9-455AB2E3B3A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1E4A9532-903A-413F-A4B5-12E9CFEFAE94}

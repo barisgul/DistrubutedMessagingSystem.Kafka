@@ -17,8 +17,8 @@
   "libraries": {
     "DistrubutedMessagingSystem.Domain/1.0.0": {
       "type": "project",
-      "path": "../DistrubutedMessagingSystem.KafkaConsumer/DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj",
-      "msbuildProject": "../DistrubutedMessagingSystem.KafkaConsumer/DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj"
+      "path": "../DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj",
+      "msbuildProject": "../DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj": {
-              "projectPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj"
+            "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj": {
+              "projectPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj"
             }
           }
         }
