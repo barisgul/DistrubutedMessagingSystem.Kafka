@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Gn/darusGbYld87qULmuk/zBpOu+UHFqd3Hoi2T8aixIKG9N3fNLaOVRk6n9Fhf9IbHCzRv5dG8jCKplxT+dzA==",
+  "dgSpecHash": "ixY9v+qMUrztfFkliN3PwbsbgugxrMXEJW4M/TBmXXrx2/E6h/zW1Qqy6diujlBMMZ8CR2gbrWEXTO/i9fR/nw==",
   "success": true,
   "projectFilePath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaProducer\\DistrubutedMessagingSystem.KafkaProducer.csproj",
   "expectedPackageFiles": [],

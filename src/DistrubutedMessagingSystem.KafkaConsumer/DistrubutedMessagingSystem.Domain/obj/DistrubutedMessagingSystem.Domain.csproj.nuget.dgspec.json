@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.KafkaConsumer.csproj": {}
+    "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.KafkaConsumer.csproj": {
+    "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.KafkaConsumer.csproj",
-        "projectName": "DistrubutedMessagingSystem.KafkaConsumer",
-        "projectPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.KafkaConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj",
+        "projectName": "DistrubutedMessagingSystem.Domain",
+        "projectPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\baris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\obj\\",
+        "outputPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\baris\\AppData\\Roaming\\NuGet\\NuGet.Config",

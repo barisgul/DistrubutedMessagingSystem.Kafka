@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "DistrubutedMessagingSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DistrubutedMessagingSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DistrubutedMessagingSystem.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DistrubutedMessagingSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DistrubutedMessagingSystem.KafkaConsumer/DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj",
+      "msbuildProject": "../DistrubutedMessagingSystem.KafkaConsumer/DistrubutedMessagingSystem.Domain/DistrubutedMessagingSystem.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "DistrubutedMessagingSystem.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\baris\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj": {
+              "projectPath": "C:\\Users\\baris\\source\\repos\\DistrubutedMessagingSystem.Kafka\\src\\DistrubutedMessagingSystem.KafkaConsumer\\DistrubutedMessagingSystem.Domain\\DistrubutedMessagingSystem.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
