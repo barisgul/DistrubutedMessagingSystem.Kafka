@@ -13,9 +13,11 @@ namespace DistrubutedMessagingSystem.KafkaConsumer
     public class Consumer
     {
         IConfigurationRoot configurationRoot;
+        WeatherService weatherService;
         public Consumer(IConfigurationRoot configurationRoot)
         {
             this.configurationRoot = configurationRoot;
+            weatherService = new WeatherService(configurationRoot);
         }
         public void Consume()
         {
@@ -49,7 +51,14 @@ namespace DistrubutedMessagingSystem.KafkaConsumer
                         {
                             var cr = c.Consume(cts.Token);
                             City city = JsonConvert.DeserializeObject<City>(cr.Value);
-                            Console.WriteLine(string.Format("Delivery succeeded! City is {0} at {1}", city.Name, cr.TopicPartitionOffset)); 
+
+                            string deliveryMessage = string.Format("Delivery succeeded for City is {0} at {1}.", city.Name, cr.TopicPartitionOffset);
+                            
+                            //make a request to OpenWeatherApi for getting weather conditions
+                            WeatherInfo weatherInfo = weatherService.GetWeatherInfo(city);
+
+                            string weatherMessage = $"The weather is {weatherInfo.weather[0].description.ToUpper()} at {city.Name.ToUpper()}";
+                            Console.WriteLine(deliveryMessage+" "+weatherMessage); 
                         }
                         catch (ConsumeException ex)
                         {

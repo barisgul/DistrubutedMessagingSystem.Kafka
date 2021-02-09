@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using DistrubutedMessagingSystem.Domain.Entities;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.IO;
 
@@ -9,7 +10,7 @@ namespace DistrubutedMessagingSystem.KafkaConsumer
         static IConfigurationRoot configurationRoot;
         static void Main(string[] args)
         {
-            configurationRoot = Configure();
+            configurationRoot = Configure(); 
             Consumer consumer = new Consumer(configurationRoot);
             consumer.Consume();
         }
